@@ -18,6 +18,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "resolutions": {
+    "react-scripts/eslint-webpack-plugin": "2.3.0"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
