@@ -5,7 +5,7 @@ function Footer() {
 
    return(
    <footer>
-   <p>CopyRight @{d.getFullYear()}</p>
+   <p>CopyRighT @{d.getFullYear()}</p>
    </footer>
    );
 }
